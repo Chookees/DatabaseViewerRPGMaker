@@ -1,0 +1,12 @@
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\bin\Debug\GameFileViewer.exe.config
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\bin\Debug\GameFileViewer.exe
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\bin\Debug\GameFileViewer.pdb
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.DatabaseViewerC.resources
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.DatabaseViewerS.resources
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.WeaponDatabaseViewerW.resources
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.Form1.resources
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.Properties.Resources.resources
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameDBViewer.csproj.GenerateResource.cache
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameDBViewer.csproj.CoreCompileInputs.cache
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.exe
+C:\Users\arturb\source\repos\GameFileViewer\GameFileViewer\obj\Debug\GameFileViewer.pdb
